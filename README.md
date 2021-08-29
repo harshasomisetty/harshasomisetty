@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi! I'm Harsha Somisetty
 
-<!--
-**harshasomisetty/harshasomisetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Currently a Junior at Rutgers, triple majoring in Math, CS, Stats. (Resume)[https://docs.google.com/document/d/1GccuGcXmZ6tDAI0Y_svTLM5yTiuQJBqra5AY8o4xE2g/edit]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current focus is improving my developer skills in systems software in OS, networking, distributed computing, security, and databases
+
+In the past, I've studied a lot of ML/DS concepts through multiple grad courses and projects:
+- Created (Checkra)[checkra.co/podcasts], a system that transcribes podcasts, automatically detects topics and generates timestamps
+- Researched Topological Data Analysis to time series data, specifically applications to generate volatility signals for markets
+- Built a system to apply pagerank to detect hype from reputable trading-related Twitter accounts
+
+
+I'm most fluent in Python, and especially good at Googling what I need to adapt to any situation.
