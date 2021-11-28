@@ -6,7 +6,7 @@ Currently a Junior at Rutgers, triple majoring in Math, CS, Stats. [Resume](http
 My current focus is improving my developer skills in systems software in OS, networking, distributed computing, security, and databases
 
 In the past, I've studied a lot of ML/DS concepts through multiple grad courses and projects:
-- Created [Checkra](checkra.co/podcasts), a system that transcribes podcasts, automatically detects topics and generates timestamps.
+- Created [Checkra](https://checkra.co/podcasts), a system that transcribes podcasts, automatically detects topics and generates timestamps.
   - Checkra backend currently private, but front end is public
 - Researched Topological Data Analysis to time series data, specifically applications to generate volatility signals for markets
   - Notebooks are public
