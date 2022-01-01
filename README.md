@@ -1,17 +1,11 @@
 ### Hi! I'm Harsha Somisetty
 
 
-Currently a Junior at Rutgers, triple majoring in Math, CS, Stats. [Resume](https://docs.google.com/document/d/1GccuGcXmZ6tDAI0Y_svTLM5yTiuQJBqra5AY8o4xE2g/edit)
-
-My current focus is improving my developer skills in systems software in OS, networking, distributed computing, security, and databases
-
-In the past, I've studied a lot of ML/DS concepts through multiple grad courses and projects:
-- Created [Checkra](https://checkra.co/podcasts), a system that transcribes podcasts, automatically detects topics and generates timestamps.
-  - Checkra backend currently private, but front end is public
-- Researched Topological Data Analysis to time series data, specifically applications to generate volatility signals for markets
-  - Notebooks are public
-- Built a system to apply pagerank to detect hype from reputable trading-related Twitter accounts
-  - Currently private
+Currently a Junior at Rutgers, triple majoring in Math, CS, Stats. More about me at my [website](https://harshasomisetty.me)
 
 
-I'm most fluent in Python, and especially good at Googling what I need to adapt to any situation.
+#### Past Projects:
+- Built [TwitBlog](twitblog.xyz), a Twitter-like app that compiles and recommends threads users have made.
+- Built [Checkra](https://checkra.xyz/podcasts), an app that transcribes podcasts, and automatically detects topics with relavent timestamps.
+- Researched Topological Data Analysis for time series to generate volatility signals for markets [repo here](https://github.com/harshasomisetty/summer-tda-research/tree/master/notebooks)
+- Built a system to apply Pagerank to detect asset-hype from reputable trading-related Twitter accounts
